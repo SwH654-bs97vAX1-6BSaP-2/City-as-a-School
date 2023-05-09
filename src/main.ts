@@ -1,5 +1,6 @@
 /// <reference types="@workadventure/iframe-api-typings" />
 
+import { EmbeddedWebsite } from "@workadventure/iframe-api-typings";
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
 console.log('Script started successfully');
@@ -7,7 +8,7 @@ console.log('Script started successfully');
 let currentPopup: any = undefined;
 
 // Waiting for the API to be ready
-WA.onInit().then(() => {
+WA.onInit().then( async () => {
     console.log('Scripting API ready');
     console.log('Player tags: ',WA.player.tags)
 
@@ -18,6 +19,20 @@ WA.onInit().then(() => {
     })
 
     WA.room.area.onLeave('clock').subscribe(closePopup)
+    // Custom Julia
+    let billboard1: EmbeddedWebsite = await WA.room.website.get("billboard")
+    WA.room.onEnterLayer("billboard1-zone").subscribe(() => {
+      billboard1.visible = true;
+      WA.room.hideLayer("portal-off");
+      WA.room.showLayer("portal-on");
+    });
+    
+  WA.room.onLeaveLayer("billboard1-zone").subscribe(() => {
+      billboard1.visible = false;
+      WA.room.showLayer("portal-off");
+      WA.room.hideLayer("portal-on");
+    });
+
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
