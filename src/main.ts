@@ -20,17 +20,17 @@ WA.onInit().then( async () => {
 
     WA.room.area.onLeave('clock').subscribe(closePopup)
     // Custom Julia
-    let billboard1: EmbeddedWebsite = await WA.room.website.get("billboard")
+    let billboard1: EmbeddedWebsite = await WA.room.website.get("billboard1")
     WA.room.onEnterLayer("billboard1-zone").subscribe(() => {
-      billboard1.visible = true;
-      WA.room.hideLayer("portal-off");
-      WA.room.showLayer("portal-on");
+      billboard1.visible = false;
+      WA.room.hideLayer("portal-on");
+      WA.room.showLayer("portal-off");
     });
     
   WA.room.onLeaveLayer("billboard1-zone").subscribe(() => {
-      billboard1.visible = false;
-      WA.room.showLayer("portal-off");
-      WA.room.hideLayer("portal-on");
+      billboard1.visible = true;
+      WA.room.showLayer("portal-on");
+      WA.room.hideLayer("portal-off");
     });
 
 
