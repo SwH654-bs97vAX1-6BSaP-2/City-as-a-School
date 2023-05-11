@@ -16639,7 +16639,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "caas-exterior-chunk-1-d5fb4882.png",
+      "image": "caas-exterior-chunk-1-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16665,7 +16665,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "caas-exterior-chunk-2-d5fb4882.png",
+      "image": "caas-exterior-chunk-2-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16680,7 +16680,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "caas-exterior-chunk-3-d5fb4882.png",
+      "image": "caas-exterior-chunk-3-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16695,7 +16695,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "caas-exterior-chunk-4-d5fb4882.png",
+      "image": "caas-exterior-chunk-4-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16710,7 +16710,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "caas-exterior-chunk-5-d5fb4882.png",
+      "image": "caas-exterior-chunk-5-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16725,7 +16725,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "caas-exterior-chunk-6-d5fb4882.png",
+      "image": "caas-exterior-chunk-6-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16740,7 +16740,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "caas-exterior-chunk-7-d5fb4882.png",
+      "image": "caas-exterior-chunk-7-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16755,7 +16755,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "caas-exterior-chunk-8-d5fb4882.png",
+      "image": "caas-exterior-chunk-8-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16770,7 +16770,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "caas-exterior-chunk-9-d5fb4882.png",
+      "image": "caas-exterior-chunk-9-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16785,7 +16785,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "caas-exterior-chunk-10-d5fb4882.png",
+      "image": "caas-exterior-chunk-10-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16800,7 +16800,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "caas-exterior-chunk-11-d5fb4882.png",
+      "image": "caas-exterior-chunk-11-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16815,7 +16815,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "caas-exterior-chunk-12-d5fb4882.png",
+      "image": "caas-exterior-chunk-12-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16830,7 +16830,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "caas-exterior-chunk-13-d5fb4882.png",
+      "image": "caas-exterior-chunk-13-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16845,7 +16845,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "caas-exterior-chunk-14-d5fb4882.png",
+      "image": "caas-exterior-chunk-14-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16860,7 +16860,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "caas-exterior-chunk-15-d5fb4882.png",
+      "image": "caas-exterior-chunk-15-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16875,7 +16875,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "caas-exterior-chunk-16-d5fb4882.png",
+      "image": "caas-exterior-chunk-16-db3ce538.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -16890,7 +16890,7 @@
     {
       "columns": 7,
       "firstgid": 4097,
-      "image": "caas-exterior-chunk-17-d5fb4882.png",
+      "image": "caas-exterior-chunk-17-db3ce538.png",
       "imageheight": 224,
       "imagewidth": 224,
       "margin": 0,
