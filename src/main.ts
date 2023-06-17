@@ -32,6 +32,32 @@ WA.onInit().then( async () => {
       WA.room.showLayer("portal-on");
       WA.room.hideLayer("portal-off");
     });
+    
+    let billboard2: EmbeddedWebsite = await WA.room.website.get("billboard2")
+    WA.room.onEnterLayer("billboard2-zone").subscribe(() => {
+      billboard2.visible = false;
+      WA.room.hideLayer("portal-on-2");
+      WA.room.showLayer("portal-off-2");
+    });
+    
+  WA.room.onLeaveLayer("billboard2-zone").subscribe(() => {
+      billboard2.visible = true;
+      WA.room.showLayer("portal-on-2");
+      WA.room.hideLayer("portal-off-2");
+    });
+
+    let billboard3: EmbeddedWebsite = await WA.room.website.get("billboard3")
+    WA.room.onEnterLayer("billboard3-zone").subscribe(() => {
+      billboard3.visible = false;
+      WA.room.hideLayer("portal-on-3");
+      WA.room.showLayer("portal-off-3");
+    });
+    
+  WA.room.onLeaveLayer("billboard3-zone").subscribe(() => {
+      billboard3.visible = true;
+      WA.room.showLayer("portal-on-3");
+      WA.room.hideLayer("portal-off-3");
+    });
 
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
