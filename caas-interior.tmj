@@ -673,7 +673,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16926, 16928, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -1304,6 +1304,7 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "class":"area",
                  "height":48.6792052288215,
                  "id":1,
                  "name":"exit-to-exterior",
@@ -1314,13 +1315,13 @@
                          "value":"caas-exterior.tmj"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":191.416535815027,
                  "x":1343.17637540453,
                  "y":1966.09425755435
                 }, 
                 {
+                 "class":"website",
                  "height":317.38,
                  "id":2,
                  "name":"billboard1",
@@ -1331,13 +1332,13 @@
                          "value":"https:\/\/juliabanner.pages.dev\/"
                         }],
                  "rotation":0,
-                 "type":"website",
                  "visible":true,
                  "width":444.88,
                  "x":2175.43280019376,
                  "y":577.68970470288
                 }, 
                 {
+                 "class":"website",
                  "height":287.96,
                  "id":3,
                  "name":"billboard-main",
@@ -1348,13 +1349,13 @@
                          "value":"https:\/\/airtable.com\/embed\/shrLVEKlluOkbhRv0?backgroundColor=yellow&viewControls=on"
                         }],
                  "rotation":0,
-                 "type":"website",
                  "visible":true,
                  "width":493.744753874647,
                  "x":1159.646219709,
                  "y":1183.15012803763
                 }, 
                 {
+                 "class":"website",
                  "height":317.96,
                  "id":4,
                  "name":"billboard2",
@@ -1365,13 +1366,13 @@
                          "value":"https:\/\/playgroundwebsite.pages.dev\/"
                         }],
                  "rotation":0,
-                 "type":"website",
                  "visible":true,
                  "width":444.88,
                  "x":2498.56,
                  "y":546.02
                 }, 
                 {
+                 "class":"website",
                  "height":317.96,
                  "id":5,
                  "name":"billboard3",
@@ -1382,13 +1383,13 @@
                          "value":"https:\/\/lawsoftheuniversebanner.pages.dev\/"
                         }],
                  "rotation":0,
-                 "type":"website",
                  "visible":true,
                  "width":444.88,
                  "x":2817.56,
                  "y":896.02
                 }, 
                 {
+                 "class":"area",
                  "height":29.0464743589744,
                  "id":7,
                  "name":"ai",
@@ -1397,49 +1398,79 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/ai.boardofinnovation.com\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"AI Tools"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":188.301282051282,
                  "x":2432.04836632685,
                  "y":1504.59368282856
                 }, 
                 {
+                 "class":"area",
                  "height":29.0465,
                  "id":9,
                  "name":"caas-zap",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/cas.zapier.app\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Pathway Generator"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":126.016,
                  "x":2655.38804218201,
                  "y":1313.42883957167
                 }, 
                 {
+                 "class":"area",
                  "height":298.164081632653,
                  "id":11,
                  "name":"jamboard",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/jamboard.google.com\/d\/1sLwVf1L1ICKnzMwzYm3uLyzVgDILcuu_CnK8SgdArZI\/edit?usp=sharing"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Jamboard"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":424.402653061224,
                  "x":1735.24765306122,
                  "y":1278.46897959184
                 }, 
                 {
+                 "class":"area",
                  "height":30.1066844721706,
                  "id":12,
                  "name":"civics-guild",
@@ -1457,10 +1488,9 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE"
+                         "value":"Welcome to the Civics Guild"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":125.153560483478,
                  "x":961.126582085744,
@@ -1669,7 +1699,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -18920,9 +18950,22 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":3,
+         "firstgid":16926,
+         "image":"tilesets\/EXIT.png",
+         "imageheight":96,
+         "imagewidth":96,
+         "margin":0,
+         "name":"EXIT",
+         "spacing":0,
+         "tilecount":9,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.10",
+ "version":"1.9",
  "width":111
 }
